@@ -11,13 +11,13 @@ This site contains a compilation and links to the projects I've worked on.
 </p>
 
 #### Problema
-Ayudar a los tasadores/as a valuar las propiedades, ya que es un proceso difícil y, a veces, subjetivo. 
-Para ello, se propone crear un modelo de Machine Learning que, dadas ciertas características de la propiedad, prediga el precio de venta.
+Se propone crear un modelo de Machine Learning que, dadas ciertas características de la propiedad, prediga el precio de venta.
 
 1. Se realiza un EDA.
 2. Se implementan 3 modelos de ML y se mide cuál es el mejor: Regresión lineal, DecisionTreeRegressor y KNN.
 
-El dataset puede ser descargado del siguiente enlace: https://drive.google.com/file/d/1ySMNCtPhlzhXBCTQsTAZX5zr0YfEDS4H/view?usp=sharing
+*Estado: Actualmente en desarrollo*
+
 
 ## Python projects and exercises
 
