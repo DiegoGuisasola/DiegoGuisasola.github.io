@@ -29,6 +29,7 @@ This site contains a compilation and links to the projects I've worked on.
 ## C++ projects
 
 1. [Calculadora de promedio semestral (Spanish)](https://github.com/DiegoGuisasola/cpp_practice/tree/main/calculadora_promedio_semestral)
+2. [Descomposicion de matrices: LU (Spanish)](https://github.com/DiegoGuisasola/cpp_practice/tree/main/matrix_decomposition)
 
 ## Unity projects (Videogames)
 
