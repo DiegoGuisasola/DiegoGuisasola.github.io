@@ -25,4 +25,6 @@ Esta página contiene una compilación de los proyectos en los que he trabajado.
 
 1. [RGB](https://nexocol.itch.io/rgb)
 
-![](/images/rgb.png)
+<p align="center">
+  <img src="/images/rgb.png" />
+</p>
