@@ -24,4 +24,5 @@ Esta página contiene una compilación de los proyectos en los que he trabajado.
 ## Unity projects (Videogames)
 
 1. [RGB](https://nexocol.itch.io/rgb)
+
 ![](/images/rgb.png)
