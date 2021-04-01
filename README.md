@@ -7,7 +7,7 @@ This site contains a compilation and links to the projects I've worked on.
 1. [EDA y algoritmos de ML para la predicción de precios de propiedades inmobiliarias (Spanish)](https://github.com/DiegoGuisasola/data-science/tree/main/properati/argentina)
 
 <p align="center">
-  <img src="/main/properati/argentina/images/cantidad_por_regiones.png" alt="drawing" width="500"/>
+  <img src="/images/cantidad_por_regiones.png" alt="drawing" width="500"/>
 </p>
 
 ## Problema
