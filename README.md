@@ -1,29 +1,36 @@
 # Bienvenidos a mi portafolio
 
-Esta página contiene una compilación de los proyectos en los que he trabajado.
+This site contains a compilation and links to the projects I've worked on.
 
 
 ## Data Science projects
-1. House Price Prediction With Machine Learning in Python -- Próximamente
+1. House Price Prediction With Machine Learning in Python -- Soon
 
 
 ## Python projects and exercises
 
-1. [LeetCode: Problems solved](https://github.com/DiegoGuisasola/python_practice_basic_1/tree/master/leetcode)
+### Basic
 
-2. [MisionTIC 2022: Ejercicios](https://github.com/DiegoGuisasola/python_practice_basic_1/tree/master/mintic)
+1. [MisionTIC 2022: Ejercicios (Spanish)](https://github.com/DiegoGuisasola/python_practice_basic_1/tree/master/mintic)
 
-3. [RegEx: Exercises](https://github.com/DiegoGuisasola/python_practice_basic_1/tree/master/re)
+2. [RegEx: Exercises (English)](https://github.com/DiegoGuisasola/python_practice_basic_1/tree/master/re)
+
+### Intermediate
+
+1. [LeetCode: Problems solved (English)](https://github.com/DiegoGuisasola/python_practice_basic_1/tree/master/leetcode)
+
+2. [OOP: Polygon drawer! (English)](https://github.com/DiegoGuisasola/polygon-drawer)
+
 
 ## MySQL projects and exercises
 
-1. [SQLZoo: Exercises](https://github.com/DiegoGuisasola/sql_practice)
+1. [SQLZoo: Exercises (English)](https://github.com/DiegoGuisasola/sql_practice)
 
 ## C++ projects
 
 ## Unity projects (Videogames)
 
-1. [RGB](https://nexocol.itch.io/rgb)
+1. [RGB (Spanish)](https://nexocol.itch.io/rgb)
 
 <p align="center">
   <img src="/images/rgb.png" />
