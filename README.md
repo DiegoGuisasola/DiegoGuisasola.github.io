@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Bienvenidos a mi portafolio
 
-You can use the [editor on GitHub](https://github.com/DiegoGuisasola/DiegoGuisasola.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Esta página contiene una compilación de los proyectos en los que he trabajado.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Data Science projects
+1. House Price Prediction With Machine Learning in Python -- Próximamente
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Python projects and exercises
 
-# Header 1
-## Header 2
-### Header 3
+1. [LeetCode: Problems solved](https://github.com/DiegoGuisasola/python_practice_basic_1/tree/master/leetcode)
 
-- Bulleted
-- List
+2. [MisionTIC 2022: Ejercicios](https://github.com/DiegoGuisasola/python_practice_basic_1/tree/master/mintic)
 
-1. Numbered
-2. List
+3. [RegEx: Exercises](https://github.com/DiegoGuisasola/python_practice_basic_1/tree/master/re)
 
-**Bold** and _Italic_ and `Code` text
+## MySQL projects and exercises
 
-[Link](url) and ![Image](src)
-```
+1. [SQLZoo: Exercises](https://github.com/DiegoGuisasola/sql_practice)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## C++ projects
 
-### Jekyll Themes
+## Unity projects (Videogames)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DiegoGuisasola/DiegoGuisasola.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. [RGB](https://nexocol.itch.io/rgb)
+![](/images/rgb.png)
