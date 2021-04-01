@@ -4,7 +4,7 @@ This site contains a compilation and links to the projects I've worked on.
 
 
 ## Data Science projects
-1. House Price Prediction With Machine Learning in Python -- Soon
+1. House Price Prediction With Machine Learning in Python (Plus EDA) -- Soon
 
 
 ## Python projects and exercises
