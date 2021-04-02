@@ -1,4 +1,4 @@
-# Bienvenidos a mi portafolio
+# Welcome to my portfolio
 
 This site contains a compilation and links to the projects I've worked on.
 
