@@ -16,9 +16,9 @@ Se propone crear un modelo de Machine Learning que, dadas ciertas característic
 1. Se realiza un EDA.
 2. Se implementan 3 modelos de ML y se mide cuál es el mejor: Regresión lineal, DecisionTreeRegressor y KNN.
 
-*Estado: Actualmente en desarrollo*
+*Estado: En desarrollo*
 
-
+# asd
 2. [Pokemon EDA (English)](https://github.com/DiegoGuisasola/pokemon)
 
 Description: Exploratory Data Analysis of all Pokemon. Fast approach using sweetviz.
