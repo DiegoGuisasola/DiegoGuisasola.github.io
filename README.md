@@ -18,6 +18,7 @@ Se propone crear un modelo de Machine Learning que, dadas ciertas característic
 
 *Estado: Actualmente en desarrollo*
 
+
 2. [Pokemon EDA (English)](https://github.com/DiegoGuisasola/pokemon)
 
 Description: Exploratory Data Analysis of all Pokemon. Fast approach using sweetviz.
