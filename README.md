@@ -10,6 +10,16 @@ This site contains a compilation and links to the projects I've worked on.
   <img src="/images/cantidad_por_regiones.png" alt="drawing" width="500"/>
 </p>
 
+2. [Pokemon EDA](https://github.com/DiegoGuisasola/pokemon)
+
+Description: Exploratory Data Analysis of all Pokemon. Fast approach using sweetviz.
+
+<p align="center">
+  <img src="/images/pokemon.jpeg" alt="drawing" width="500"/>
+</p>
+
+The report can be seeing in [this link](https://raw.githack.com/DiegoGuisasola/pokemon/main/analyze.html).
+
 #### Problema
 Se propone crear un modelo de Machine Learning que, dadas ciertas características de la propiedad, prediga el precio de venta.
 
