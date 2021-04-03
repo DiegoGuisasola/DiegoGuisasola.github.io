@@ -10,6 +10,14 @@ This site contains a compilation and links to the projects I've worked on.
   <img src="/images/cantidad_por_regiones.png" alt="drawing" width="500"/>
 </p>
 
+#### Problema
+Se propone crear un modelo de Machine Learning que, dadas ciertas características de la propiedad, prediga el precio de venta.
+
+1. Se realiza un EDA.
+2. Se implementan 3 modelos de ML y se mide cuál es el mejor: Regresión lineal, DecisionTreeRegressor y KNN.
+
+*Estado: Actualmente en desarrollo*
+
 2. [Pokemon EDA](https://github.com/DiegoGuisasola/pokemon)
 
 Description: Exploratory Data Analysis of all Pokemon. Fast approach using sweetviz.
@@ -19,15 +27,6 @@ Description: Exploratory Data Analysis of all Pokemon. Fast approach using sweet
 </p>
 
 The report can be seeing in [this link](https://raw.githack.com/DiegoGuisasola/pokemon/main/analyze.html).
-
-#### Problema
-Se propone crear un modelo de Machine Learning que, dadas ciertas características de la propiedad, prediga el precio de venta.
-
-1. Se realiza un EDA.
-2. Se implementan 3 modelos de ML y se mide cuál es el mejor: Regresión lineal, DecisionTreeRegressor y KNN.
-
-*Estado: Actualmente en desarrollo*
-
 
 ## Python projects and exercises
 
