@@ -43,6 +43,11 @@ The report can be seeing in [this link](https://raw.githack.com/DiegoGuisasola/p
 
 2. [OOP: Polygon drawer! (English)](https://github.com/DiegoGuisasola/polygon-drawer)
 
+3. [BANKING SYSTEM: OOP and GUI implementation v1.0](https://github.com/DiegoGuisasola/bank_app)
+
+<p align="center">
+  <img src="/images/bank.png" alt="drawing"/>
+</p>
 
 ## MySQL projects and exercises
 
