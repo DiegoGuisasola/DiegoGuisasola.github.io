@@ -10,7 +10,7 @@ This site contains a compilation and links to the projects I've worked on.
       <img src="/images/cantidad_por_regiones.png" alt="drawing" width="500"/>
     </p>
 
-    #### Problema
+    <h4>Problema</h4>
     Se propone crear un modelo de Machine Learning que, dadas ciertas características de la propiedad, prediga el precio de venta.
 
     1. Se realiza un EDA.
