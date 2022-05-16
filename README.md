@@ -1,9 +1,11 @@
 
 # Welcome to my portfolio
 
-This site contains a compilation of my projects.
+Hi! <br>
+I'm Diego Guisasola, a Game Developer passionate about learning and teaching. <br>
+I currently work at Unity as a Software Engineering Intern. <br>
 
-
+These are some of the projects I've worked on over the last 2 years. [Currently updating]
 
 ## Unity projects (AEC & Videogames)
 
