@@ -1,3 +1,4 @@
+
 # Welcome to my portfolio
 
 This site contains a compilation of my projects.
@@ -6,7 +7,7 @@ This site contains a compilation of my projects.
 
 ## Unity projects (AEC & Videogames)
 
-1. [Investigation of Unity's Digital Twin Products Suite](https://diegoguisasola.notion.site/Digital-Twin-Products-Suite-09499e02c9684582bb2d82d1bd57edaf): A comprehensive guide on Unity's Pixyz, Forma, and Reflect.
+1. [Unity's Digital Twin Solutions](https://diegoguisasola.notion.site/Digital-Twin-Products-Suite-09499e02c9684582bb2d82d1bd57edaf): A comprehensive guide on Unity's Pixyz, Forma, and Reflect.
 
   <p align="center">
     <img src="/images/pixyz.png" alt="pixyz" width="600"/>
@@ -36,7 +37,7 @@ This site contains a compilation of my projects.
       <img src="/images/cantidad_por_regiones.png" alt="cantidad_por_regiones" width="500"/>
     </p>
 
-    <h4>Problema</h4>
+    <h4>Problem</h4>
     It is proposed to create a Machine Learning model that, given certain characteristics of the property, predicts the selling price.
 
     1. An EDA is performed.
