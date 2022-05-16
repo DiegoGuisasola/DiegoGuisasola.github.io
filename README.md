@@ -1,20 +1,40 @@
 # Welcome to my portfolio
 
-This site contains a compilation and links to the projects I've worked on.
+This site contains a compilation of my projects.
 
+
+
+## Unity projects (Videogames)
+
+1. [Investigation of Unity's Digital Twin Products Suite](https://diegoguisasola.notion.site/Digital-Twin-Products-Suite-09499e02c9684582bb2d82d1bd57edaf): A comprehensive guide on Unity's Pixyz, Forma, and Reflect.
+
+  <p align="center">
+    <img src="/images/pixyz.png" />
+  </p>
+  
+2. [RGB (Spanish)](https://nexocol.itch.io/rgb)
+
+  <p align="center">
+    <img src="/images/rgb.png" />
+  </p>
+
+## C++ projects
+
+1. [Grades Calculator (Spanish)](https://github.com/DiegoGuisasola/cpp_practice/tree/main/calculadora_promedio_semestral)
+2. [Matrix Decomposition: LU (Spanish)](https://github.com/DiegoGuisasola/cpp_practice/tree/main/matrix_decomposition)
 
 ## Data Science projects
-1. [EDA y algoritmos de ML para la predicción de precios de propiedades inmobiliarias (Spanish)](https://github.com/DiegoGuisasola/data-science/tree/main/properati/argentina)
+1. [EDA and ML algorithms for real estate price prediction (Spanish)](https://github.com/DiegoGuisasola/data-science/tree/main/properati/argentina)
 
     <p align="center">
       <img src="/images/cantidad_por_regiones.png" alt="drawing" width="500"/>
     </p>
 
     <h4>Problema</h4>
-    Se propone crear un modelo de Machine Learning que, dadas ciertas características de la propiedad, prediga el precio de venta.
+    It is proposed to create a Machine Learning model that, given certain characteristics of the property, predicts the selling price.
 
-    1. Se realiza un EDA.
-    2. Se implementan 3 modelos de ML y se mide cuál es el mejor: Regresión lineal, DecisionTreeRegressor y KNN.
+    1. An EDA is performed.
+    2. 3 ML models are implemented and the best one is measured: Linear Regression, DecisionTreeRegressor and KNN.
 
     *Estado: En desarrollo*
 
@@ -53,15 +73,3 @@ This site contains a compilation and links to the projects I've worked on.
 
 1. [SQLZoo: Exercises (English)](https://github.com/DiegoGuisasola/sql_practice)
 
-## C++ projects
-
-1. [Calculadora de promedio semestral (Spanish)](https://github.com/DiegoGuisasola/cpp_practice/tree/main/calculadora_promedio_semestral)
-2. [Descomposicion de matrices: LU (Spanish)](https://github.com/DiegoGuisasola/cpp_practice/tree/main/matrix_decomposition)
-
-## C# Unity projects (Videogames)
-
-1. [RGB (Spanish)](https://nexocol.itch.io/rgb)
-
-  <p align="center">
-    <img src="/images/rgb.png" />
-  </p>
