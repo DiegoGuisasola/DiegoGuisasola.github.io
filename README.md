@@ -80,3 +80,13 @@ These are some of the projects I've worked on over the last 2 years. [Currently 
 
 1. [SQLZoo: Exercises (English)](https://github.com/DiegoGuisasola/sql_practice)
 
+## Full Stack
+
+1. [CRUD MongoDB](https://github.com/DiegoGuisasola/nodejscrud-mongo)
+
+  <p align="center">
+    <img src="/images/crud.png" alt="bank"/>
+  </p>
+  
+   Link: https://nodejscrud-mongo.herokuapp.com
+
